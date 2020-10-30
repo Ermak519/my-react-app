@@ -9,10 +9,13 @@
     "@testing-library/user-event": "^12.1.10",
     "babel": "^6.23.0",
     "bootstrap": "^4.5.3",
+    "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
+    "reactstrap": "^8.6.0",
+    "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
@@ -40,6 +43,8 @@
     ]
   },
   "devDependencies": {
+    "sass": "^1.27.1",
+    "sass-loader": "^10.0.4",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.1.0"
   }
